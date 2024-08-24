@@ -5,4 +5,6 @@ I am from Nigeria, and I focus on web development. I have a strong passion for l
 
 Skills: JS / HTML / CSS
 
+- 🔭 I’m currently working on this page. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmy-cleck&theme=dark&show_icons=true)
